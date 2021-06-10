@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = (function(a){return {"/":[a],"/index":[a],"/kenapa-saya-menulis-dalam-javascript":[a],"/siapa-saya":[a]}}("static\u002Fchunks\u002Fc408a39172ae7358407853ba61f5bdcc2ac3c2f4.79dbafd6f0abd036da87.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
